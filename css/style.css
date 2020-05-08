@@ -1,0 +1,278 @@
+* {
+    background: #3B0B0B;
+}
+
+body {
+    padding-top: 150px;
+}
+
+.container {
+    width: 0 auto;
+    overflow: hidden;
+    margin: 0 auto;
+    height: 0 auto;
+}
+
+.topopagina {
+    width: 100%;
+    height: 90px;
+    opacity: 0.7;
+    background: #3B0B0B;
+    position: fixed;
+    top: 0;
+
+}
+
+.menutopo {
+    background: #3B0B0B;
+}
+
+.menucont {
+    float: right;
+    margin-right: 100px;
+    margin-top: 30px;
+    background: #3B0B0B;
+}
+
+.menucont ul {
+    list-style: none;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    background: #3B0B0B;
+}
+
+.menucont ul li {
+    display: inline;
+}
+
+.menucont ul li a {
+    color: white;
+    background: #3B0B0B;
+    font-size: 20px;
+    padding: 2px 20px;
+    text-decoration: none;
+}
+
+.menucont ul li a:hover {
+    color: black;
+}
+
+.logotopo {
+    float: left;
+    position: absolute;
+    font-size: 60px;
+    font-family: uroob;
+    background: #3B0B0B;
+    color: white;
+    margin-top: 15px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.meiotep {
+    background: #2F3338;
+    width: 1250px;
+    height: 0 auto;
+    border-radius: 30px;
+    overflow: hidden;
+    margin-top: 40px;
+
+}
+
+.meiotop {
+    width: 1250px;
+    height: 0 auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background: #2F3338;
+    overflow: hidden;
+    margin-top: 30px;
+    
+}
+.meiotop h1 {
+    background: #2F3338;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-shadow: 0 0.2em 0.2em #000;
+
+
+}
+
+.meiopost {
+    width: 1250px;
+    background: #2F3338;
+    height: 0 auto;
+    overflow: hidden;
+
+}
+
+.meiopost p {
+    background: #2F3338;
+    width: 1250px;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.meiopost p img {
+    border-radius: 50%;
+    width: 350px;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    background: #2F3338;
+}
+.meiopost p a {
+    background: #2F3338;
+}
+
+.postfim {
+    width: 1250px;
+    background: #2F3338;
+    height: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+/*versão de noob.
+.corpoposts {
+    width: 1250px;
+    background: #2F3338;
+    overflow: hidden;
+    margin-top: 100px;
+
+}
+
+.corpoposts h1 {
+    text-align: center;
+    background: #2F3338;
+    color: white;
+    margin-bottom: auto;
+}
+
+.corpoposts p {
+    background: #2F3338;
+    text-align: center;
+    margin-top: auto;
+    padding-top: 20px;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.corpoposts img {
+    border-radius: 10%;
+    box-shadow: 0 0.1em 0.1em #000;
+    width: 200pxpx;
+    display: inline-block;
+    margin-right: 170px;
+    margin-left: 170px;
+    background: #2F3338;
+    padding-top: 15px;
+}
+
+.corpoposts img a {
+
+}
+
+.corpoposts img a:hover {
+    border-bottom: transparent;
+    color: black;
+}
+
+.corpoposts1 {
+    width: auto;
+    background: #2F3338;
+    overflow: hidden;
+
+}
+
+.corpoposts1 h1 {
+
+    text-align: center;
+    background: #2F3338;
+    color: white;
+    margin-bottom: auto;
+}
+
+.corpoposts1 p {
+    background: #2F3338;
+    text-align: center;
+    margin-top: auto;
+    padding-top: 20px;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.corpoposts1 img {
+    width: 200px;
+    border-radius: 50%;    
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 10px;
+}
+
+.corpoposts2 {
+    width: auto;
+    background: #2F3338;
+    overflow: hidden;
+
+}
+
+.corpoposts2 h1 {
+    text-align: center;
+    background: #2F3338;
+    color: white;
+    margin-bottom: auto;
+}
+
+.corpoposts2 p {
+    background: #2F3338;
+    text-align: center;
+    margin-top: auto;
+    padding-top: 20px;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.corpoposts2 img {
+    width: 80px;
+    float: left;
+    display: inline-block;
+    margin-right: 170px;
+    margin-left: 170px;
+    background: #2F3338;
+}
+*/
+
+.footer {
+    height: 90px;
+    background: #cc0000;
+    overflow: hidden;
+    float: left;
+}
+
+.footeresc {
+    color: black;
+    text-align: center;
+    margin: 40px 425px ;
+    position: absolute;
+    font: 15px "cooperstd";
+    text-shadow: 00 0 5px #fff;
+}
+
+.
