@@ -3,7 +3,7 @@
 }
 
 body {
-    padding-top: 150px;
+    padding-top: 100px;
 }
 
 .container {
@@ -76,7 +76,7 @@ body {
     height: 0 auto;
     border-radius: 30px;
     overflow: hidden;
-    margin-top: 40px;
+
 
 }
 
@@ -95,12 +95,13 @@ body {
     color: white;
     text-align: center;
     font-size: 40px;
-    padding-top: 50px;
+    padding-top: 100px;
     padding-bottom: 50px;
     text-shadow: 0 0.2em 0.2em #000;
 
 
 }
+
 
 .meiopost {
     width: 100%;
@@ -108,6 +109,14 @@ body {
     height: 0 auto;
     overflow: hidden;
 
+}
+
+.meiopost h2 {
+    background: #2F3338;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 50px;
 }
 
 .meiopost p {
@@ -126,7 +135,7 @@ body {
     border-radius: 50%;
     width: 350px;
     display: inline-block;
-    margin-top: 50px;
+    margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 20px;
