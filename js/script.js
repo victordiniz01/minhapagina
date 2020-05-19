@@ -1,4 +1,5 @@
 
+alert ("Olá, seja bem vindo!");
 
 $('.nav a[href^="#"]').on('click', function(e) 
 {
@@ -10,5 +11,8 @@ $('.nav a[href^="#"]').on('click', function(e)
       scrollTop: targetOffset - 100
     }, 500);
   });
+
+
+
   
   

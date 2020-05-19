@@ -70,6 +70,11 @@ body {
     text-align: center;
 }
 
+.logotopo a {
+    text-decoration: none;
+    color: white;
+}
+
 .meiotep {
     background: #2F3338;
     width: 100%;
